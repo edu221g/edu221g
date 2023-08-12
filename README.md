@@ -1,3 +1,4 @@
+## Bem Vindo ao meu perfil 
 <div>
   <a href="https://github.com/edu221g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu221g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCiYHkHLD9Sb7uTHvsGZjwOw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
